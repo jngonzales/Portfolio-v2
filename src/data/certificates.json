@@ -1,0 +1,103 @@
+{
+  "certificates": [
+    {
+      "id": 1,
+      "title": "CS50x",
+      "issuer": "Harvard",
+      "year": "2025",
+      "file": "/certificates/CS50x.pdf",
+      "color": "from-rose-500/20 to-rose-600/20",
+      "description": "Introduction to Computer Science - Harvard's flagship course."
+    },
+    {
+      "id": 2,
+      "title": "CS50P",
+      "issuer": "Harvard",
+      "year": "2025",
+      "file": "/certificates/CS50P.pdf",
+      "color": "from-amber-500/20 to-amber-600/20",
+      "description": "Introduction to Programming with Python - Harvard."
+    },
+    {
+      "id": 3,
+      "title": "Software Engineer",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/software_engineer certificate.pdf",
+      "color": "from-red-500/20 to-red-600/20",
+      "description": "Certified Software Engineer skills assessment."
+    },
+    {
+      "id": 4,
+      "title": "REST API Intermediate",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/rest_api_intermediate certificate.pdf",
+      "color": "from-green-500/20 to-green-600/20",
+      "description": "Intermediate level REST API design and implementation skills."
+    },
+    {
+      "id": 5,
+      "title": "SQL Advanced",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/sql_advanced certificate.pdf",
+      "color": "from-blue-500/20 to-blue-600/20",
+      "description": "Advanced SQL queries, optimization, and database management."
+    },
+    {
+      "id": 6,
+      "title": "SQL Intermediate",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/sql_intermediate certificate.pdf",
+      "color": "from-indigo-500/20 to-indigo-600/20",
+      "description": "Intermediate SQL skills including joins and subqueries."
+    },
+    {
+      "id": 7,
+      "title": "Go Intermediate",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/golang_intermediate certificate.pdf",
+      "color": "from-cyan-500/20 to-cyan-600/20",
+      "description": "Intermediate Go programming including concurrency and data structures."
+    },
+    {
+      "id": 8,
+      "title": "Problem Solving Intermediate",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/problem_solving_intermediate certificate.pdf",
+      "color": "from-purple-500/20 to-purple-600/20",
+      "description": "Intermediate problem-solving skills including algorithms and data structures."
+    },
+    {
+      "id": 9,
+      "title": "JavaScript Intermediate",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/javascript_intermediate certificate.pdf",
+      "color": "from-yellow-500/20 to-yellow-600/20",
+      "description": "Intermediate JavaScript programming skills."
+    },
+    {
+      "id": 10,
+      "title": "CSS",
+      "issuer": "HackerRank",
+      "year": "2025",
+      "file": "/certificates/css certificate.pdf",
+      "color": "from-pink-500/20 to-pink-600/20",
+      "description": "CSS styling and layout skills certification."
+    },
+    {
+      "id": 11,
+      "title": "Advent of Cyber 2025",
+      "issuer": "TryHackMe",
+      "year": "2025",
+      "file": "/certificates/TryHackMeAdventofCyber2025.pdf",
+      "color": "from-orange-500/20 to-orange-600/20",
+      "description": "Cybersecurity skills from Advent of Cyber challenge."
+    }
+  ]
+}

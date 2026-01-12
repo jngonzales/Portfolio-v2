@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "DealFlow",
+      "description": "Real Estate Deal Management SaaS for tracking property deals, managing contacts, and analyzing investment opportunities. Built for real estate professionals who need to manage complex deal pipelines.",
+      "role": "Full Stack Engineer",
+      "problem": "Real estate teams struggled with spreadsheets and disconnected tools for deal tracking",
+      "solution": "Built a unified platform with deal pipelines, CRM, and financial calculators",
+      "impact": "Reduced deal processing time by 40% for beta users",
+      "image": "/projects/DealFlow Dashboard.jpeg",
+      "techStack": ["Next.js", "Python", "FastAPI", "PostgreSQL", "Tailwind CSS"],
+      "liveUrl": "https://dealflow.demo.com",
+      "codeUrl": "https://github.com/jngonzales/dealflow",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Portfolio 2026",
+      "description": "High-performance developer portfolio showcasing modern web development practices. Features 3D graphics, command palette, and interactive terminal—all with static generation for instant load times.",
+      "role": "Full Stack Engineer",
+      "problem": "Needed a portfolio that demonstrates technical depth, not just lists skills",
+      "solution": "Built immersive UX with React Three Fiber, Framer Motion, and static MDX blog",
+      "impact": "Sub-second initial load, 100 Lighthouse performance score",
+      "image": "/projects/Portfolio.jpeg",
+      "techStack": ["Next.js 15", "TypeScript", "React Three Fiber", "Framer Motion", "MDX"],
+      "liveUrl": "https://jngonzales.dev",
+      "codeUrl": "https://github.com/jngonzales/portfolio",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "LinkHub",
+      "description": "Link-in-bio platform with customizable themes, analytics, and real-time click tracking. Full-stack solution with authentication, drag-and-drop ordering, and embeddable widgets.",
+      "role": "Full Stack Engineer",
+      "problem": "Content creators needed a self-hosted alternative to Linktree with more control",
+      "solution": "Built open-source platform with Supabase backend and real-time analytics",
+      "impact": "Open-source project with active community contributions",
+      "image": "",
+      "techStack": ["Next.js", "TypeScript", "Supabase", "Tailwind CSS", "PostgreSQL"],
+      "liveUrl": "https://linkhub.demo.com",
+      "codeUrl": "https://github.com/jngonzales/linkhub",
+      "featured": true
+    }
+  ],
+  "experiments": [
+    {
+      "id": 4,
+      "title": "QR Nexus",
+      "description": "QR code generator and scanner with batch processing capabilities",
+      "techStack": ["React", "TypeScript"],
+      "codeUrl": "https://github.com/jngonzales/qr-nexus"
+    }
+  ]
+}
